@@ -1,0 +1,87 @@
+[DEVICE]
+Name=FT900
+Clock=100000000
+[MEMORY_MODEL]
+Value=0
+[BUILD_TYPE]
+Value=0
+[ACTIVE_TAB]
+Value=Mikromedia_HMI_70C_Demo_main.c
+[USE_EEPROM]
+Value=0
+[EEPROM_DEFINITION]
+Value=
+[USE_HEAP]
+Value=0
+[HEAP_SIZE]
+Value=2000
+[FILES]
+Count=5
+File0=Mikromedia_HMI_70C_Demo_main.c
+File1=Mikromedia_HMI_70C_Demo_events_code.c
+File2=Mikromedia_HMI_70C_Demo_driver.c
+File3=Mikromedia_HMI_70C_Demo_resources.c
+File4=SF_driver.c
+[BINARIES]
+Count=0
+[IMAGES]
+Count=0
+ActiveImageIndex=-1
+[OPENED_FILES]
+Count=5
+File0=Mikromedia_HMI_70C_Demo_main.c
+File1=Mikromedia_HMI_70C_Demo_events_code.c
+File2=resources.h
+File3=SF_driver.h
+File4=SF_driver.c
+[EEPROM]
+Count=0
+[ACTIVE_COMMENTS_FILES]
+Count=0
+[OTHER_FILES]
+Count=0
+[SEARCH_PATH]
+Count=6
+Path0=C:\Users\Public\Documents\Mikroelektronika\mikroC PRO for FT90x\defs\
+Path1=C:\Users\Public\Documents\Mikroelektronika\mikroC PRO for FT90x\uses\
+Path2=C:\Users\Viktor\Desktop\MikroMedia_HMI\library\70\Mikromedia_HMI_70C_Demo_Code\mikroC PRO for FT90X\
+Path3=C:\Users\Praksa\Desktop\resursi\70\Mikromedia_HMI_70C_Demo_Code\mikroC PRO for FT90X\
+Path4=C:\Users\Public\Documents\Mikroelektronika\mikroC PRO for FT90x\Packages\FT812\Uses\
+Path5=C:\Users\Public\Documents\Mikroelektronika\mikroC PRO for FT90x\Packages\FAT32 Library\Uses\
+[HEADER_PATH]
+Count=3
+Path0=C:\Users\Praksa\Desktop\resursi\70\Mikromedia_HMI_70C_Demo_Code\mikroC PRO for FT90X\
+Path1=C:\Users\Viktor\Desktop\MikroMedia_HMI\library\70\Mikromedia_HMI_70C_Demo_Code\mikroC PRO for FT90X\
+Path2=C:\Users\Viktor\Desktop\MikroMedia_HMI\library\70\Mikromedia_HMI_70C_Demo_Code\mikroC PRO for FT90X\
+[HEADERS]
+Count=5
+File0=Mikromedia_HMI_70C_Demo_objects.h
+File1=Mikromedia_HMI_70C_Demo_resources.h
+File2=resources.h
+File3=Serial_Flash.h
+File4=SF_driver.h
+[PLDS]
+Count=0
+[Useses]
+Count=16
+File0=FT812
+File1=FT812_Defs
+File2=FT812_Types
+File3=SPI
+File4=C_String
+File5=Mmc
+File6=UART
+File7=SDHost
+File8=FAT32
+File9=FAT32_Defs
+File10=FAT32_Driver
+File11=FAT32_Types
+File12=C_Math
+File13=C_Stdlib
+File14=C_Type
+File15=Conversions
+[EXPANDED NODES]
+Node1=Sources
+Node2=Header Files
+Node3=Output Files
+Count=3
